@@ -20,6 +20,12 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 [![Try examples in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/assume-framework/assume/tree/main/examples/notebooks)
 
+THIS IS A FORK OF THE ASSUME AGENT-BASED MODEL.
+My modifications are:
+- A short program to automate timeslice-labelling
+- My own input files and configurations
+
+
 **ASSUME** is an open-source toolbox for agent-based simulations of European electricity markets, with a primary focus on the German market setup.
 Developed as an open-source model, its primary objectives are to ensure usability and customizability for a wide range of users and use cases in the energy system modeling community.
 
